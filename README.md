@@ -10,6 +10,6 @@ React, SASS
 
 ## How to run the project
 
-- Make a clone of the project using the command: ### `git clone https://github.com/MalevichMV/testFunBox.git`
-- write the command ### `npm i` in the project folder to use modules
-- write the ### `npm start` command to start server.
+- Make a clone of the project using the command: `git clone https://github.com/MalevichMV/testFunBox.git`
+- write the command `npm i` in the project folder to use modules
+- write the `npm start` command to start server.
