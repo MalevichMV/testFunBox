@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/testFunBox/static/css/main.cc0b8754.css",
+    "main.css": "/testFunBox/static/css/main.1e823da3.css",
     "main.js": "/testFunBox/static/js/main.f90c6e02.js",
     "static/js/787.f847febc.chunk.js": "/testFunBox/static/js/787.f847febc.chunk.js",
     "static/media/cat.png": "/testFunBox/static/media/cat.58676bb34b670741bded.png",
-    "static/media/Exo2.0-Thin.otf": "/testFunBox/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "static/media/Exo2.0-Thin.woff": "/testFunBox/static/media/Exo2.0-Thin.fd470d26f4352addb144.woff",
     "static/media/backgroudPattern.png": "/testFunBox/static/media/backgroudPattern.d6f07f8ed5f5049a96ce.png",
     "index.html": "/testFunBox/index.html",
-    "main.cc0b8754.css.map": "/testFunBox/static/css/main.cc0b8754.css.map",
+    "main.1e823da3.css.map": "/testFunBox/static/css/main.1e823da3.css.map",
     "main.f90c6e02.js.map": "/testFunBox/static/js/main.f90c6e02.js.map",
     "787.f847febc.chunk.js.map": "/testFunBox/static/js/787.f847febc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc0b8754.css",
+    "static/css/main.1e823da3.css",
     "static/js/main.f90c6e02.js"
   ]
 }
