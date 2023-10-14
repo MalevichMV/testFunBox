@@ -6,6 +6,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    height: 99vh; // for IE11
     min-width: 100%;
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.50) 0%, rgba(0, 0, 0, 0.00) 49.88%, rgba(0, 0, 0, 0.50) 100%),
                 repeat url('../../img/backgroudPattern.png');
